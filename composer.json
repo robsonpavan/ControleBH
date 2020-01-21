@@ -1,5 +1,5 @@
 {
-    "name": "robsonpavan/ControleBH",
+    "name": "robsonpavan/controle-bh",
     "authors": [
         {
             "name": "Robson Alves Pavan",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ControleBH\\": "vendor\\ControleBH\\php-classes\\src"
+            "controle-bh\\": "vendor\\controle-bh\\php-classes\\src"
         }
     }
     
