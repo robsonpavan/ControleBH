@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "controle-bh\\": "vendor\\controle-bh\\php-classes\\src"
+            "ControleBH\\": "vendor\\controle-bh\\php-classes\\src"
         }
     }
 
